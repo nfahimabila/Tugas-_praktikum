@@ -1,2 +1,2 @@
-# Tugas-_praktikum
+# Tugas_praktikum
 berisi code tugas praktikum web programming
